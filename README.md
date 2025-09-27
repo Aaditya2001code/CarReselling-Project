@@ -1,2 +1,2 @@
 # CarReselling-Project
-This is a prototype project for cae selling and listing system using java
+This is a prototype project for car selling and listing system using java
